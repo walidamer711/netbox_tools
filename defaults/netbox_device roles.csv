@@ -1,0 +1,24 @@
+name,slug,color,vm_role
+Access Switch,access-switch,2196f3,True
+Console Server,console-server,009688,True
+Core Switch,core-switch,2196f3,True
+DC Access,dc-access,f44336,
+DC Aggregation,dc-aggregation,aa1409,
+DC Firewall,dc-fw,aa1409,
+DC Firewall Cluster,dc-fw-cluster,aa1409,
+Distribution Switch,distribution-switch,2196f3,True
+External DMZ Switch,external-dmz-switch,f44336,
+FEX,fex,aa1409,
+Firewall,firewall,f44336,True
+Internal DMZ Switch,internal-dmz-switch,ffeb3b,
+Internet Access,internet-access,ffeb3b,True
+Management Switch,management-switch,ff9800,True
+MGMT Access,mgmt-access,aa1409,
+MGMT SVC,mgmt-svc,aa1409,
+OOB Router,oob-router,9e9e9e,
+OOB Switch,oob-switch,c0c0c0,
+PDU,pdu,607d8b,True
+Router,router,9c27b0,True
+Server,server,9e9e9e,True
+WAN Router,wan-router,aa1409,
+WAN Switch,wan-switch,8bc34a,True

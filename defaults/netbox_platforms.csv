@@ -1,0 +1,9 @@
+name,slug,manufacturer,napalm_driver,napalm_args
+Arista EOS,arista-eos,,,
+Cisco ASA,cisco_asa,Cisco,cisco_asa,
+Cisco IOS,ios,Cisco,ios,
+Cisco NX-OS,nxos,Cisco,nxos,{'optional_args': {'transport': 'http'}}
+Cisco NXOS-SSH,nxos_ssh,Cisco,nxos_ssh,
+Juniper Junos,juniper-junos,,,
+Linux,linux,,,
+Opengear,opengear,,,
